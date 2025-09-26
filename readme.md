@@ -127,3 +127,7 @@ Empowering pixel artists in the decentralized economy 🎨⛓️
 
 contact address -
 0x358AA13c52544ECCEF6B0ADD0f801012ADAD5eE3
+
+<img width="1762" height="847" alt="image" src="https://github.com/user-attachments/assets/1f0477e7-cdbd-4eb9-8690-d853f2e4f1dd" />
+
+
