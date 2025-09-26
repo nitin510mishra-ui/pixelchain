@@ -1,5 +1,4 @@
 
-Chhota bhaii, [26-09-2025 14:51]
 PIXELCHAIN
 Project Description
 PIXELCHAIN is a revolutionary blockchain-based platform that transforms the world of pixel art creation, ownership, and trading. Built on Ethereum using smart contract technology, PIXELCHAIN provides artists and collectors with a decentralized ecosystem where pixel art NFTs can be created, painted, collaborated on, and traded with complete transparency and provenance.
